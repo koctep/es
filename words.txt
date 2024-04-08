@@ -1,0 +1,3 @@
+add ser,estar,tener,ir,hacer
+
+add all Europe countries nationalities
